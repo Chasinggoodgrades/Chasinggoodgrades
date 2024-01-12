@@ -13,6 +13,10 @@
 - I want to finish graduating from school (May 2nd, 2024).
 - Become a better developer and person
 
+## Projects to look for
+- FTP Client (Java, SQL, AWS) [Link](https://github.com/Chasinggoodgrades/FTP_Client)
+- Raspberry Pi Kernel (Assembly, C, C++) [Link](https://github.com/Chasinggoodgrades/FranckenatorProductions)
+- Text Sentimental Analysis (Python) [Link](https://github.com/Chasinggoodgrades/TextSentimentalAnalysis)
 
 
 <!--
