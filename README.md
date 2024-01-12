@@ -1,4 +1,19 @@
-### Hi there 👋
+# Hi there 👋
+
+## About me
+- Senior Year Computer Science Student @ University of South Carolina - Upstate
+- I love programming, its an excellent pass time
+- I play World of Warcraft (463 ilvl 2.2k IO)
+- Always enjoy learning new technologies
+- ChatGPT is pretty fricken pog
+
+
+## What I Wish to do
+- I'm looking to land a Software Development position, available to relocate.
+- I want to finish graduating from school (May 2nd, 2024).
+- Become a better developer and person
+
+
 
 <!--
 **Chasinggoodgrades/Chasinggoodgrades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
