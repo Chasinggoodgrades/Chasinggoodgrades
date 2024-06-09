@@ -34,7 +34,7 @@ const columns = canvas.width / fontSize;
 const drops = Array(Math.floor(columns)).fill(1);
 
 function draw() {
-    ctx.fillStyle = 'rgba(0, 0, 0, 0.05)';  // Adjust opacity for a more noticeable trail
+    ctx.fillStyle = 'rgba(0, 0, 0, 0.05)';
     ctx.fillRect(0, 0, canvas.width, canvas.height);
 
     ctx.fillStyle = '#2b92dc';  // Light blue color
@@ -51,7 +51,7 @@ function draw() {
     }
 }
 
-setInterval(draw, 50);  // Increase interval to slow down the animation
+setInterval(draw, 50);
 
 
 

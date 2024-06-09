@@ -24,7 +24,7 @@ body {
 
 /* Tech Box */
 .tech-box {
-    background: rgba(112, 128, 144, 0.35); /* Semi-transparent background */
+    background: rgba(112, 128, 144, 0.35);
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
@@ -33,7 +33,7 @@ body {
 
 /* Contact Box */
 .contact-box {
-    background: rgba(112, 128, 144, 0.35); /* Semi-transparent background */
+    background: rgba(112, 128, 144, 0.35);
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
@@ -49,13 +49,13 @@ body {
 }
 
 .contact-icons img {
-    width: 40px; /* Adjust the size of the icons as needed */
-    height: auto; /* Maintain aspect ratio */
+    width: 40px;
+    height: auto;
 }
 
 /* Hyperlinks */
 a {
-    color: #00bfff; /* Light blue color for hyperlinks */
+    color: #00bfff;
     text-decoration: none;
 }
 
@@ -187,7 +187,7 @@ a:hover {
 }
 
 .project-info a {
-    color: #00bfff; /* Light blue color for hyperlinks */
+    color: #00bfff;
     text-decoration: none;
 }
 
@@ -197,13 +197,13 @@ a:hover {
 
 #tech-stack {
     text-align: center;
-    color: #fff; /* Adjust text color for better visibility */
-    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); /* Add shadow to text */
+    color: #fff;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
 }
 
 .tech-icons {
     display: grid;
-    grid-template-columns: repeat(5, 1fr); /* Five icons per row */
+    grid-template-columns: repeat(5, 1fr);
     gap: 20px;
     justify-items: center;
     align-items: center;
@@ -211,8 +211,8 @@ a:hover {
 }
 
 .tech-icons img {
-    width: 100px; /* Adjust the size of the icons as needed */
-    height: auto; /* Maintain aspect ratio */
+    width: 100px;
+    height: auto;
 }
 
 /* Footer Styling */
