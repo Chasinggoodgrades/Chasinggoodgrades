@@ -1,44 +1,102 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Chase Poland Portfolio">
     <title>My Portfolio</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
 <body>
 
-<header>
-    <div class="logo">
-        <h1>Chase Poland</h1>
+<!-- Menu Section -->
+<section id="menu" class="full-page">
+    <div class="menu-box">
+        <div class="container">
+            <div class="left">
+                <div class="logo">
+                    <h1>Chase Poland</h1>
+                    <img src="Resume/profile.jpg" class="profile-pic" alt="Profile Picture">
+                </div>
+            </div>
+            <div class="right">
+                <nav>
+                    <ul>
+                        <li><a href="#projects">Projects</a></li>
+                        <li><a href="#tech-stack">Technology Stack</a></li>
+                        <li><a href="#contact">Contact Me</a></li>
+                        <li><button onclick="downloadResume()">Download Resume</button></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
     </div>
-    <nav>
-        <ul id="nav">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="projects.html">Projects</a></li>
-            <li><a href="resume.html">Resume</a></li>
-        </ul>
-    </nav>
-</header>
+</section>
 
-<main>
+<!-- Projects Section -->
+<section id="projects" class="full-page">
+    <div class="projects-box">
+        <h2>Projects</h2>
+        <div class="project-container">
+            <div class="project">
+                <img src="Projects/FileForge.jpg" alt="FTP Client" class="project-img">
+                <div class="project-info">
+                    <h3>File Forge (FTP Client)</h3>
+                    <p>Creation of FTP Client with Java and AWS backend.</p>
+                    <a href="https://github.com/Chasinggoodgrades/FTP_Client" target="_blank">View on GitHub</a>
+                </div>
+            </div>
+            <div class="project">
+                <img src="Projects/TextSentimentalAnalysis.png" alt="Sentiment Analysis" class="project-img">
+                <div class="project-info">
+                    <h3>Text Sentimental Analysis</h3>
+                    <p>Built with Python and 3 models (BERT Transformer, CNN, RNN).</p>
+                    <a href="https://github.com/Chasinggoodgrades/TextSentimentalAnalysis" target="_blank">View on GitHub</a>
+                </div>
+            </div>
+            <div class="project">
+                <img src="Projects/Tic-Tac-Toe.png" alt="Bare Metal OS" class="project-img">
+                <div class="project-info">
+                    <h3>Raspberry Pi Kernel Implementation</h3>
+                    <p>Creation of OS/Kernel for Raspberry PI, Assembly, C, C++</p>
+                    <a href="https://github.com/Chasinggoodgrades/FranckenatorProductions" target="_blank">View on GitHub</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
-    <img src="Resume/profile.jpg" class="profile-pic">
+<!-- Technology Stack Section -->
+<section id="tech-stack" class="full-page">
+    <div class="content-box">
+        <h2>Technology Stack</h2>
+        <p>OK I KNOW it looks bland.. I'll put icons here i think</p>
+    </div>
+</section>
 
-    <h2>About Me</h2>
-    <p>To do... About me stuff later.</p>
-
-    <h2>Contact</h2>
-
-    <p>Email: chase.poland@gmail.com</p>
-
-</main>
+<!-- Contact Me Section -->
+<section id="contact" class="full-page">
+    <div class="content-box">
+        <h2>Contact Me</h2>
+        <p>Debating how to do this.. Container + Icon Hyperlinks? Or just put it in the footer maybe.</p>
+        <p>Email: chase.poland@gmail.com</p>
+    </div>
+</section>
 
 <footer>
-    <p>&copy; 2023 Chase Poland</p>
+    <p>&copy; 2024 Chase Poland</p>
 </footer>
 
+<canvas id="matrix"></canvas>
+
 <script src="custom.js"></script>
+<script>
+    function downloadResume() {
+        window.location.href = 'Resume/Resume.pdf';  // Update this path to your actual resume file
+    }
+</script>
 
 </body>
 
