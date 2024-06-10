@@ -11,7 +11,8 @@
 </head>
 
 <body>
-
+<canvas id="starfield"></canvas>
+<div id="moon"></div>
 <!-- Menu Section -->
 <section id="menu" class="full-page">
     <div class="menu-box">
@@ -23,14 +24,12 @@
                 </div>
             </div>
             <div class="right">
-                <nav>
-                    <ul>
-                        <li><a href="#projects">Projects</a></li>
-                        <li><a href="#tech-stack">Technology Stack</a></li>
-                        <li><a href="#contact-me">Contact Me</a></li>
-                        <li><button onclick="downloadResume()">Download Resume</button></li>
-                    </ul>
-                </nav>
+                <div class="button-container">
+                    <button onclick="document.querySelector('#projects').scrollIntoView({ behavior: 'smooth' });">Projects</button>
+                    <button onclick="document.querySelector('#tech-stack').scrollIntoView({ behavior: 'smooth' });">Technology Stack</button>
+                    <button onclick="document.querySelector('#contact-me').scrollIntoView({ behavior: 'smooth' });">Contact Me</button>
+                    <button onclick="downloadResume()">Download Resume</button>
+                </div>
             </div>
         </div>
     </div>
@@ -108,7 +107,7 @@
     <p>&copy; 2024 Chase Poland</p>
 </footer>
 
-<canvas id="matrix"></canvas>
+
 
 <script src="custom.js"></script>
 <script>
