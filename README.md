@@ -16,5 +16,3 @@
 - Raspberry Pi Kernel (Assembly, C, C++) [Link](https://github.com/Chasinggoodgrades/FranckenatorProductions)
 - Text Sentimental Analysis (Python) [Link](https://github.com/Chasinggoodgrades/TextSentimentalAnalysis)
 - Run Kitty Run Game (C#) [Link](https://github.com/Chasinggoodgrades/RunKittyRun)
-
-![Chasinggoodgrades's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chasinggoodgrades&theme=blueberry&hide_border=false)
