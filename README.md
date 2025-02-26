@@ -19,6 +19,5 @@
 
 <div align="center">
     <br />
-    <h4 align="center">:octocat: Github Stats</h4>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chasinggoodgrades&theme=blueberry&hide_border=false">
 </div>
