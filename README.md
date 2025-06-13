@@ -34,13 +34,8 @@
 
 🍓 <a href="https://github.com/Chasinggoodgrades/FranckenatorProductions">Raspberry Pi Kernel</a> – Bare-metal OS work with Assembly, C, and C++  
 📊 <a href="https://github.com/Chasinggoodgrades/TextSentimentalAnalysis">Text Sentimental Analysis</a> – Python-based NLP project  
-🕹️ <a href="https://github.com/Chasinggoodgrades/RunKittyRun">Run Kitty Run</a> – A Unity game in C#, featuring isometric gameplay and terrain design
+🕹️ <a href="https://github.com/Chasinggoodgrades/RunKittyRun">Run Kitty Run</a> – Warcraft 3 Map Built in C# transpiled into LUA
 
-</div>
-
-<div align="center">
-    <br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chasinggoodgrades&theme=blueberry&hide_border=false" alt="GitHub Streak Stats">
 </div>
 
 <h2 align="center">Tech Stack</h2>
@@ -54,3 +49,11 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
 </div>
+
+
+<div align="center">
+    <br />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chasinggoodgrades&theme=blueberry&hide_border=false" alt="GitHub Streak Stats">
+</div>
+
+
