@@ -1,23 +1,56 @@
-# Hi there 👋
+<div align="center">
 
-## About me
-- Computer Science Graduate from University of South Carolina Upstate
-- I love programming, its an excellent pass time
-- I play World of Warcraft (463 ilvl 2.2k IO)
-- Always enjoy learning new technologies
+# 👋 Hey there, I'm Chase!
 
-## What I Wish to do
-- I'm looking to land a Software Development position, available to relocate.
-- Become a better developer and person
-- Expand and develop on new and current technologies. 
+</div>
 
-## Projects to look for
-- FTP Client (Java, SQL, AWS) [Link](https://github.com/Chasinggoodgrades/FTP_Client)
-- Raspberry Pi Kernel (Assembly, C, C++) [Link](https://github.com/Chasinggoodgrades/FranckenatorProductions)
-- Text Sentimental Analysis (Python) [Link](https://github.com/Chasinggoodgrades/TextSentimentalAnalysis)
-- Run Kitty Run Game (C#) [Link](https://github.com/Chasinggoodgrades/RunKittyRun)
+
+<h2 align="center">About Me</h2>
+
+<div align="center">
+🎓 Computer Science graduate from the University of South Carolina Upstate
+
+💻 Passionate about programming—it’s my favorite kind of puzzle  
+🐉 World of Warcraft player (463 ilvl | 2.2k Mythic+ IO)  
+🌱 Always exploring and learning new technologies
+
+</div>
+
+<h2 align="center">Aspirations</h2>
+
+<div align="center">
+🚀 Seeking a Software Development role (open to relocation)
+
+📈 Striving to grow as a developer and as a person  
+🔧 Excited to build, refine, and innovate with modern tools
+
+</div>
+
+<h2 align="center">Projects</h2>
+
+<div align="center">
+
+📂 <a href="https://github.com/Chasinggoodgrades/FTP_Client">FTP Client</a> – Java client with SQL integration, hosted on AWS
+
+🍓 <a href="https://github.com/Chasinggoodgrades/FranckenatorProductions">Raspberry Pi Kernel</a> – Bare-metal OS work with Assembly, C, and C++  
+📊 <a href="https://github.com/Chasinggoodgrades/TextSentimentalAnalysis">Text Sentimental Analysis</a> – Python-based NLP project  
+🕹️ <a href="https://github.com/Chasinggoodgrades/RunKittyRun">Run Kitty Run</a> – A Unity game in C#, featuring isometric gameplay and terrain design
+
+</div>
 
 <div align="center">
     <br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chasinggoodgrades&theme=blueberry&hide_border=false">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chasinggoodgrades&theme=blueberry&hide_border=false" alt="GitHub Streak Stats">
+</div>
+
+<h2 align="center">Tech Stack</h2>
+
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png" alt="Lua" title="Lua"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
 </div>
