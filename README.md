@@ -19,9 +19,8 @@
 <h2 align="center">Aspirations</h2>
 
 <div align="center">
-🚀 Seeking a Software Development role (open to relocation)
-
-📈 Striving to grow as a developer and as a person  
+📈 Striving to grow as a developer and as a person
+	
 🔧 Excited to build, refine, and innovate with modern tools
 
 </div>
@@ -32,28 +31,30 @@
 
 📂 <a href="https://github.com/Chasinggoodgrades/FTP_Client">FTP Client</a> – Java client with SQL integration, hosted on AWS
 
-🍓 <a href="https://github.com/Chasinggoodgrades/FranckenatorProductions">Raspberry Pi Kernel</a> – Bare-metal OS work with Assembly, C, and C++  
-📊 <a href="https://github.com/Chasinggoodgrades/TextSentimentalAnalysis">Text Sentimental Analysis</a> – Python-based NLP project  
+🍓 <a href="https://github.com/Chasinggoodgrades/FranckenatorProductions">Raspberry Pi Kernel</a> – Bare-metal OS work with Assembly, C, and C++
+
+📊 <a href="https://github.com/Chasinggoodgrades/TextSentimentalAnalysis">Text Sentimental Analysis</a> – Python-based NLP project
+
 🕹️ <a href="https://github.com/Chasinggoodgrades/RunKittyRun">Run Kitty Run</a> – Warcraft 3 Map Built in C# transpiled into LUA
 
 </div>
-
-<h2 align="center">Tech Stack</h2>
-
-<div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png" alt="Lua" title="Lua"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
-</div>
-
 
 <div align="center">
     <br />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chasinggoodgrades&theme=blueberry&hide_border=false" alt="GitHub Streak Stats">
 </div>
+
+<h2 align="center">Tech Stack</h2>
+
+<div align="center">
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png" alt="Lua" title="Lua"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/>
+</div>
+
 
 
