@@ -10,9 +10,9 @@
 <div align="center">
 🎓 Computer Science graduate from the University of South Carolina Upstate
 
-💻 Passionate about programming—it’s my favorite kind of puzzle  
+💻 Passionate about programming, insanely enjoyable hobby.
 🐉 World of Warcraft player (463 ilvl | 2.2k Mythic+ IO)  
-🌱 Always exploring and learning new technologies
+🌱 Always trying to learn new technologies
 
 </div>
 
@@ -21,7 +21,7 @@
 <div align="center">
 📈 Striving to grow as a developer and as a person
 	
-🔧 Excited to build, refine, and innovate with modern tools
+🔧 Love building tools, expanding on work, and making things easier.
 
 </div>
 
