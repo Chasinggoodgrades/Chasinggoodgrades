@@ -104,8 +104,12 @@
 
 
 <footer>
-    <p>&copy; 2024 Chase Poland</p>
+    <p>&copy; <span id="year"></span> Chase Poland</p>
 </footer>
+<!-- just auto update!! DUH -->
+<script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+</script>
 
 
 
