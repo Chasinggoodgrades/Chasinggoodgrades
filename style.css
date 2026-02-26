@@ -7,7 +7,7 @@ body {
     color: white;
     background: black;
     position: relative;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 /* Full Page Sections */
@@ -15,11 +15,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 85vh;
+    min-height: 85vh;
     width: 100%;
     box-sizing: border-box;
     position: relative;
     z-index: 2;
+    padding: 40px 0;
 }
 
 /* Tech Box */
